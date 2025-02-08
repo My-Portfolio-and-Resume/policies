@@ -1,19 +1,14 @@
----
-title: Terms of Service
-description: All the terms that you agree to when you sign up for a 37signals product.
----
-
 # Terms of Service
 
 *Last updated: January 6, 2023*
 
-From everyone at 37signals, thank you for using our products! We build them to help you do your best work. There are millions of people using 37signals products every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
+From everyone at **My Portfolio and Resume**, thank you for using our products! We build them to help you showcase your work and achievements effectively. There are thousands of people using My Portfolio and Resume every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [37signals LLC](https://world.hey.com/jason/37signals-hello-again-117eae60). We spun off Highrise HQ, LLC in the past, but it has since rejoined 37signals LLC.
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [My Portfolio and Resume Inc.](https://myportfolioandresume.com).
 
-When we say “Services”, we mean our websites, including basecamp.com, hey.com, and 37signals.com, and any product created and maintained by 37signals LLC. That includes Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard, whether delivered within a web browser, desktop application, mobile application, or another format.
+When we say “Services”, we mean our websites, including myportfolioandresume.com and any product created and maintained by My Portfolio and Resume Inc. This includes our portfolio and resume-building tools, themes, and any related applications, whether delivered within a web browser, desktop application, mobile application, or another format.
 
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for our products: [Basecamp 4](https://basecamp.com/about/policies/ownership-bc3), [Basecamp 2](https://2.basecamp-help.com/article/411-account-ownership), [Basecamp Classic](https://classic.basecamp-help.com/article/526-account-ownership), [HEY for Domains](https://hey.com/policies/ownership-hey/), [Highrise](https://support.highrise-help.com/article/305-account-ownership), [Campfire](https://support.campfire-help.com/article/651-who-owns-a-campfire-account) and [Backpack](https://support.backpack-help.com/article/661-account-ownership).
+When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
 We may update these Terms of Service ("Terms") in the future. You can track all changes made since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
