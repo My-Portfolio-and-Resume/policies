@@ -74,6 +74,7 @@ A cookie is a piece of text stored by your browser. It may help remember login i
 When you email My Portfolio and Resume with a question or to ask for help, we keep that correspondence, including your email address, so that we have a history of past correspondence to reference if you reach out in the future.
 
 We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
+
 <!-- 
 ### How we approach mobile app permissions
 
