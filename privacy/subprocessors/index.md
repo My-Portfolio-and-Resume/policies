@@ -4,7 +4,7 @@
 
 We use third party subprocessors, such as cloud computing providers and customer support software, to run My Portfolio and Resume (the service). We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](../) everywhere personal data is processed.
 
-The following is a list of personal data subprocessors we use. These subprocessors are all located either in Canada or EU:
+The following is a list of personal data subprocessors we use. These subprocessors are all located all around the world:
 
 * [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/). Cloud services provider.
 * [Stripe](https://stripe.com/en-ca/privacy). Payment processing services.

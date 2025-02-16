@@ -99,7 +99,7 @@ No My Portfolio and Resume human looks at your content except for limited purpos
 
 **Aggregated and de-identified data.** We may aggregate and/or de-identify information collected through the services. We may use de-identified or aggregated data for any purpose, including marketing or analytics.
 
-**When required under applicable law.** My Portfolio and Resume is a Canadian company and all data infrastructure are located in Canada, EU.
+**When required under applicable law.** My Portfolio and Resume is a Canadian company.
 
 * Requests for user data. My Portfolio and Resume reserves the right to provide the customer data to third parties as required and permitted by law (such as in response to a subpoena or court order), and to cooperate with law enforcement authorities in the investigation of any criminal or civil matter. If My Portfolio and Resume is required by law to make any disclosure of the Confidential Information that is prohibited or otherwise constrained by this Agreement, then My Portfolio and Resume will provide user with prompt written notice (to the extent permitted by law) prior to such disclosure so that the user may seek a protective order or other appropriate relief.
 
@@ -145,7 +145,7 @@ We keep your information for the time necessary for the purposes for which it is
 
 ## Location of site and data
 
-Our products and other web properties are operated either in EU or Canada. If you are located in the European Union, UK, or elsewhere outside of the Canada, **please be aware that any information you provide to us maybe transferred to and stored in the Canada**. By using our websites or Services and/or providing us with your personal information, you consent to this transfer.
+Our products and other web properties are operated in US, Canada or EU. If you are located in the European Union, UK, or elsewhere outside of the Canada, **please be aware that any information you provide to us maybe transferred to and stored in the Canada**. By using our websites or Services and/or providing us with your personal information, you consent to this transfer.
 
 <!-- ## When transferring personal data from the EU
 
