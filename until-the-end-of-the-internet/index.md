@@ -1,8 +1,3 @@
----
-title: "Basecamp: Until the End of the Internet"
-description: Unlike most other companies that make web software, we’re dedicated to supporting our products forever.
----
-
 # Until the End of the Internet
 
 Internet software and services disappear all the time because of whimsy (“changing priorities”), acquisition, financial failure, or worse. It’s become a risky venture to place your trust and data in services that could disappear at any moment, for any reason, and with no guarantee that your data will be safe, preserved, or even portable.
