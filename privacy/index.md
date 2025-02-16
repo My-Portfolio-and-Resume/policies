@@ -99,7 +99,7 @@ No My Portfolio and Resume human looks at your content except for limited purpos
 
 **Aggregated and de-identified data.** We may aggregate and/or de-identify information collected through the services. We may use de-identified or aggregated data for any purpose, including marketing or analytics.
 
-**When required under applicable law.** My Portfolio and Resume is a Canadian company and all data infrastructure are located either in Canada or EU.
+**When required under applicable law.** My Portfolio and Resume is a Canadian company and all data infrastructure are located in Canada, EU.
 
 * Requests for user data. My Portfolio and Resume reserves the right to provide the customer data to third parties as required and permitted by law (such as in response to a subpoena or court order), and to cooperate with law enforcement authorities in the investigation of any criminal or civil matter. If My Portfolio and Resume is required by law to make any disclosure of the Confidential Information that is prohibited or otherwise constrained by this Agreement, then My Portfolio and Resume will provide user with prompt written notice (to the extent permitted by law) prior to such disclosure so that the user may seek a protective order or other appropriate relief.
 
