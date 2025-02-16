@@ -19,7 +19,7 @@ This policy is split into sections. For your convenience, links to each of those
 
 This policy applies to all products built and maintained by My Portfolio and Resume (all versions).
 
-<!-- If you are applying for a job at 37signals, please review our [Recruitment Privacy policy](recruitment/index.md).  -->
+[comment]: If you are applying for a job at 37signals, please review our [Recruitment Privacy policy](recruitment/index.md).
 
 This policy applies to our handling of information about site visitors, prospective customers, and customers and authorized users (in relation to their procurement of the services and management of their relationship with My Portfolio and Resume). We refer collectively to these categories of individuals as "you" throughout this policy.
 
