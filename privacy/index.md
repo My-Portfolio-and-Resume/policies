@@ -75,8 +75,7 @@ When you email My Portfolio and Resume with a question or to ask for help, we ke
 
 We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
 
-<!-- 
-### How we approach mobile app permissions
+<!-- ### How we approach mobile app permissions
 
 We offer optional desktop and mobile apps for some of our products. Because of how the platforms are designed, our apps typically must request your consent before accessing contacts, calendar, camera, and other privacy-sensitive features of your device. Consent is always optional and our apps will function without it, though some features may be unavailable. There are a few exceptions, for example:
 
